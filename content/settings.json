@@ -4,11 +4,11 @@
   "domain": "ecomplus-storefront.netlify.app",
   "short_name": "My Shop",
   "description": "My PWA Shop",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
+  "primary_color": "#4582EC",
+  "secondary_color": "#adb5bd",
   "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "litera"
   },
   "logo": "/img/uploads/logo.png",
   "mini_logo": "",
